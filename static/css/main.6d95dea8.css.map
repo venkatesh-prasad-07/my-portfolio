@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACI,cACA,kBACA,mBACA,0BAA4B","file":"static/css/main.6d95dea8.css","sourcesContent":[".App-logo{\r\n    height: 40vmin;\r\n    border-radius:50%;\r\n    margin-bottom:50px;\r\n    border: 1vh solid #232d3622;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
