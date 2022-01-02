@@ -114,8 +114,20 @@
         "category": "A static Matrimonial Webiste",
         "image": "shubham1.jpg",
         "url": "https://affectionate-nightingale-a1b5bc.netlify.app/"
-      }
-      
+      },
+   {
+          "title": "Tip Calculator",
+          "category": "A calculator website for tip calculation ",
+          "image": "tip.png",
+          "url": "https://personal-tip-calculator.netlify.app/"
+      },
+
+      {
+          "title": "Personal Portfolio",
+          "category": "The personal portfolio website of Venkatesh Prasad",
+          "image": "portfolio.png",
+          "url": "https://venkatesh-portfolio.netlify.app/"
+      }   
       
       
     ]
