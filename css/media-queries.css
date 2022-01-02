@@ -328,6 +328,8 @@
    
 }
 
+
+
 #contact button.submit {
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -338,7 +340,7 @@
    height: auto;
    display: inline-block;
 	border-radius: 3px;
-   margin-left: 100px;
+   margin-left: 70px;
 }
 #contact button.submit { margin: 30px 0 24px 250px;}
    #message-warning, #message-success {
@@ -347,6 +349,45 @@
    }
    }
 
+   
+   @media only screen and (max-width:525px)
+   {
+      #contact input,
+#contact textarea,
+#contact select {
+   padding: 18px 20px;
+	color: #eee;
+	background: #373233;
+	margin-bottom: 42px;
+	border: 0;
+	outline: none;
+   font-size: 15px;
+   line-height: 24px;
+   width: 65%;
+   margin-left:80px;
+   
+}
+
+
+
+#contact button.submit {
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color:#fff;
+   background: #0D0D0D;
+	border: none;
+   cursor: pointer;
+   height: auto;
+   display: inline-block;
+	border-radius: 3px;
+   margin-left: 60px;
+}
+#contact button.submit { margin: 30px 0 24px 135px;}
+   #message-warning, #message-success {
+      width: 100%;
+      
+   }
+   }
 
 
   
