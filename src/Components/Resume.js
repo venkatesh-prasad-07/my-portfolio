@@ -27,30 +27,36 @@ class Resume extends Component {
 
       <div className="row education">
          <div className="three columns header-col">
+           <div data-aos="fade-right">
             <h1><span>Education</span></h1>
          </div>
-
+         </div>
          <div className="nine columns main-col">
             <div className="row item">
                <div className="twelve columns">
+                 <div data-aos="fade-left">
                  {education}<br/>
+                 </div>
                </div>
             </div>
          </div>
       </div>
 
-
+      
       <div className="row work">
 
          <div className="three columns header-col">
+         <div data-aos="fade-right">
             <h1><span>Work</span></h1>
          </div>
-
+          </div>
          <div className="nine columns main-col">
+         <div data-aos="fade-left">
           {work}
         </div>
+        </div>
     </div>
-
+      
 
 
       <div className="row skill">
